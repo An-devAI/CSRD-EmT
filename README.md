@@ -2,7 +2,9 @@
 
 Framework học biểu diễn cho nhận dạng cảm xúc EEG liên chủ thể, kết hợp **EmT**, **chưng cất tham chiếu liên chủ thể** và **đối kháng có điều kiện theo cảm xúc**.
 
-Triển khai nghiên cứu của **Nguyễn Trường An**, ngành Trí tuệ nhân tạo, Trường Đại học Công nghệ – ĐHQGHN.
+Dự án phục vụ **khóa luận tốt nghiệp** của **Nguyễn Trường An**, ngành Trí tuệ nhân tạo, Trường Đại học Công nghệ – ĐHQGHN.
+
+**Trạng thái: đang hoàn thiện.** Mã nguồn, thực nghiệm và tài liệu được cập nhật trong quá trình thực hiện khóa luận; kết quả hiện có chưa phải kết luận cuối cùng.
 
 ## Phương pháp
 
