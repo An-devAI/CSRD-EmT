@@ -1,0 +1,6 @@
+CSRD-EmT implementation: Nguyễn Trường An, 2026.
+EmT backbone adapted from https://github.com/yi-ding-cs/EmT
+Copyright 2022 Centre for Brain Computing Research (CBCR).
+Redistribution retains CBCR License 1.0; non-commercial use only.
+The integrated implementation is distributed under the included CBCR License 1.0.
+Metric learning and gradient reversal are inherited techniques; the framework combines them with cross-subject reference distillation.
